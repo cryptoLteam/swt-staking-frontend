@@ -1,0 +1,24 @@
+{
+  "short_name": "GameBlock Staking",
+  "name": "GameBlock Staking",
+  "description": "GameBlock Staking Platform",
+  "homepage_url": "https://gameblock.link",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FF00D1",
+  "background_color": "#06000E",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "32x32"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "127x45"
+    }
+  ],
+  "iconPath": "logo.png"
+}
